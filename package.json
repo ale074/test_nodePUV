@@ -1,0 +1,14 @@
+{
+  "name": "test_nodepuv",
+  "version": "1.0.0",
+  "description": "Proyecto de prueba para elaborar una aplicación de consumo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alejandro Vergara Alvarez",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
